@@ -118,7 +118,7 @@ function App() {
   return (
     <div className="app-container" data-theme={theme}>
       <header className="header">
-        <h1>Davut GPT</h1>
+        <h1>Dovlet GPT</h1>
         <button
           type="button"
           className="theme-toggle"
