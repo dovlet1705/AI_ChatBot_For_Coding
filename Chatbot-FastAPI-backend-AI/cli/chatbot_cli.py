@@ -8,7 +8,7 @@ client = openai.OpenAI(
 )
 
 while True:
-    print("\nAsk something from DavutAI (press q or e to exit)")
+    print("\nAsk something from DovletAI (press q or e to exit)")
     prompt = input("You: ")
 
     if prompt.lower() in ["q", "e"]:
